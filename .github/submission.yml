@@ -1,0 +1,114 @@
+name: Cloud Community Hackday Submission
+description: Make your submission to Cloud Community Hackday
+title: "Submission: <team name>"
+labels: ["submission"]
+body:
+  - type: input
+    id: team-name
+    attributes:
+      label: Team Name
+    validations:
+      required: true
+  - type: textarea
+    id: team-members
+    attributes:
+      label: Team members
+      description: Mention details of all team members in case there is a change
+      value: |
+        Member #1
+        Name:
+        Email:
+        Twitter handle (hyperlinked):
+
+        Member #2
+        Name:
+        Twitter handle (hyperlinked):
+
+        Member #3
+        Name:
+        Twitter handle (hyperlinked):
+
+        Member #4
+        Name:
+        Twitter handle (hyperlinked):
+    validations:
+      required: true
+        
+  - type: input
+    id: project-name
+    attributes:
+      label: Project Name
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details (Leader)
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: project-track
+    attributes:
+      label: Project Track
+      description: For which track are you submitting your project?
+      options:
+          - Healthcare
+          - Education
+          - Fin-Tech
+          - Sustainability 
+          - Community
+          - Open Innovation
+    validations:
+      required: true
+  - type: input
+    id: project-repo
+    attributes:
+      label: Link to project GitHub public repo
+    validations:
+      required: true
+  - type: input
+    id: website-link
+    attributes:
+      label: Link to project website
+      description: If you have any live link or any other link to showcase
+    validations:
+      required: false
+  - type: input
+    id: demo-link
+    attributes:
+      label: Link to demo video
+    validations:
+      required: true
+  - type: textarea
+    id: inspiration
+    attributes:
+      label: Inspiration
+      description: What was your inspiration behind making this project?
+    validations:
+      required: true
+  - type: textarea
+    id: what-it-does
+    attributes:
+      label: What it does 
+      description: Explain in short what your project does & problem it solves
+    validations:
+      required: true
+  - type: textarea
+    id: challenges-you-ran-into
+    attributes:
+      label: Challenges you ran into
+      description: What challenges did you face during this hack?
+    validations:
+      required: true
+  - type: textarea
+    id: anything-else
+    attributes:
+      label: Anything else?
+      description: |
+        Anything else you that you want to share with us?
+        
+        Tip: You can attach images or files by clicking this area to highlight it and then dragging files in.
+    validations:
+      required: false
