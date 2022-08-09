@@ -1,5 +1,5 @@
 # Cloud Community Hackday
-A 48 Hours Community Hackathon organised by [GDG Cloud Kolkata](https://gdg.community.dev/gdg-cloud-kolkata/).
+A 48 Hours Community Hackathon organized by [GDG Cloud Kolkata](https://gdg.community.dev/gdg-cloud-kolkata/).
 
 ## How to submit:
 - Register for Cloud Community Hackday using this [Google Form](https://forms.gle/1aW6Uc1swXGasSPe9).
@@ -16,18 +16,18 @@ A 48 Hours Community Hackathon organised by [GDG Cloud Kolkata](https://gdg.comm
         - Upload your video to YouTube/Vimeo or any other platform where it is publicly visible  
     4. Include the deployed link (if you have any).
 - Start a new **[submisison issue](https://github.com/gdgcloudkol/hackday/issues/new?assignees=&labels=submission&template=submission.yml&title=Submission%3A+%3Cteam+name%3E)**.
-- Mention team name, email of poc, track submitting for.
+- Mention team name, email of POC, and track submitting for.
 - Submit the issue.
 - Success 🎉
 
 ## Submissions Rules: 
 
-All the Project Submissions have to done by making an issue in this repository. The guidelines to followed for the same have been mentioned below:
+All the Project Submissions have to be done by making an issue in this repository. The guidelines to follow for the same have been mentioned below:
 - The Team Leader has to open up an Issue for project submission using their GitHub Account [here](https://github.com/gdgcloudkol/hackday/issues/new?assignees=&labels=submission&template=submission.yml&title=Submission%3A+%3Cteam+name%3E).
 - The Issue Template should be strictly followed. A submission not following the same would be termed as an **INVALID SUBMISSION**.
 - For the submissions out of the given tracks will also qualify as **VALID SUBMISSION**.
-- You should have make or join a team of **Minimum of 1 Member** & **Maximum of 3 Members**. And, teams of 3 members must have atleast **1 Female Member**.
-- A project will be counted as valid only if it's created within 48 Hours of given timeline i.e., **19th Aug, 10 PM - 21st Aug, 10 PM**
+- You should have to make or join a team of **Minimum of 1 Member** & **Maximum of 3 Members**. And, teams of 3 members must have at least **1 Female Member**.
+- A project will be counted as valid only if it's created within 48 Hours of the given timeline i.e., **19th Aug, 10 PM - 21st Aug, 10 PM**
 
 ## Project Tracks:
 
@@ -43,7 +43,7 @@ All the Project Submissions have to done by making an issue in this repository. 
 
 `Prizes to be declared`
 
-**All valid submissions for any track will be eligible to get a conference passes for all of their team members.** 
+**All valid submissions for any track will be eligible to get conference passes for all of their team members.** 
 
 ## Timeline
 
@@ -60,6 +60,6 @@ Teams can register on [Google Form](https://forms.gle/1aW6Uc1swXGasSPe9) and mak
 
 ## Contact : 
 
-You may contact us via email `gdgcloudkol@gmail.com` for queries or you can also drop your query on our [Telegram Channel](https://t.me/gdgcloudkol) to resolve your doubt faster.
+You may contact us via email at `gdgcloudkol@gmail.com` for queries or you can also drop your query on our [Telegram Channel](https://t.me/gdgcloudkol) to resolve your doubt faster.
 
 All the Best!! :rocket:
