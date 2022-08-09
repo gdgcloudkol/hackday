@@ -14,7 +14,7 @@ A 48 Hours Community Hackathon organised by [GDG Cloud Kolkata](https://gdg.comm
         - Explain how you fit within your selected track
         - Video must be in English
         - Upload your video to YouTube/Vimeo or any other platform where it is publicly visible  
-    4. Include the deployed contract address
+    4. Include the deployed link (if you have any).
 - Start a new submisison issue.
 - Mention team name, email of poc, track submitting for.
 - Submit the issue.
