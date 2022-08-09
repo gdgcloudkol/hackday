@@ -15,7 +15,7 @@ A 48 Hours Community Hackathon organized by [GDG Cloud Kolkata](https://gdg.comm
         - Video must be in English
         - Upload your video to YouTube/Vimeo or any other platform where it is publicly visible  
     4. Include the deployed link (if you have any).
-- Start a new **[submisison issue](https://github.com/gdgcloudkol/hackday/issues/new?assignees=&labels=submission&template=submission.yml&title=Submission%3A+%3Cteam+name%3E)**.
+- Start a new **[submission issue](https://github.com/gdgcloudkol/hackday/issues/new?assignees=&labels=submission&template=submission.yml&title=Submission%3A+%3Cteam+name%3E)**.
 - Mention team name, email of POC, and track submitting for.
 - Submit the issue.
 - Success 🎉
