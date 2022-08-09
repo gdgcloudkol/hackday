@@ -7,7 +7,7 @@ A 48 Hours Community Hackathon organised by [GDG Cloud Kolkata](https://gdg.comm
 - Upload your code to GitHub public repository. Complete source code must be available to the judges during the Hackathon. 
 - Make sure that the following are taken into consideration before submitting (failure to do so will result in disqualification) :
     1. Make sure you have your code link ready
-    2. All the necessary instructions and documentation are included in the project README file 
+    2. All the necessary instructions and documentation are included in the project README file.
     3. Demo Video link for the project
         - Tell us about your project
         - Demo of your project
@@ -30,7 +30,7 @@ All the Project Submissions have to done by making an issue in this repository. 
 
 ## Project Tracks:
 
-Choose from the below tracks:
+**Choose from the below tracks:**
 - Healthcare
 - Education
 - Fin-Tech
@@ -47,15 +47,18 @@ Choose from the below tracks:
 ## Timeline
 
 Teams can register on [Google Form](https://forms.gle/1aW6Uc1swXGasSPe9) and make a submission on GitHub [here](#):  
-- Registration Starts - `10th Aug 2022, 12:00 PM IST`
-- Opening Ceremony [Online] - `19th Aug 2022, 7 PM IST`
-- Hackathon Starts - `19th Aug 2022, 10:00 PM IST`
-- Hackathon Ends - `21st Aug 2022, 10:00 PM IST`
+- Registration Starts: `10th Aug 2022, 12:00 PM IST`
+- Opening Ceremony [Online]: `19th Aug 2022, 7 PM IST`
+- Hackathon Starts: `19th Aug 2022, 10:00 PM IST`
+- Hackathon Ends: `21st Aug 2022, 10:00 PM IST`
+- TOP 10 Team Announce: `TBD`
+- Pitch from TOP 10 Teams [Offline]: `27th Aug 2022`
+- Winners Announcement [Offline]: `28th Aug 2022`
 
 *No late submissions will be accepted as we need to give conference tickets to the valid submissions and winners.*
 
 ## Contact : 
 
-You may contact us via email `gdgcloudkol@gmail.com` for queries or you can also drop your query on our Telegram Channel to resolve your doubt faster.
+You may contact us via email `gdgcloudkol@gmail.com` for queries or you can also drop your query on our [Telegram Channel](https://t.me/gdgcloudkol) to resolve your doubt faster.
 
-All the Best!!
+All the Best!! :rocket:
