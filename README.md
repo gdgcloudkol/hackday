@@ -27,6 +27,7 @@ All the Project Submissions have to done by making an issue in this repository. 
 - The Issue Template should be strictly followed. A submission not following the same would be termed as an **INVALID SUBMISSION**.
 - For the submissions out of the given tracks will also qualify as **VALID SUBMISSION**.
 - You should have make or join a team of **Minimum of 2 Members** & **Maximum of 4 Members**.
+A project will be counted as valid only if it's created within 48 Hours of given timeline i.e., 19th Aug, 10 PM - 21st Aug, 10 PM
 
 ## Project Tracks:
 
