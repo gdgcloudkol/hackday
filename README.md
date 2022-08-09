@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Cloud Community Hackday</h1> -->
 
-![Cloud Community Hackday](https://user-images.githubusercontent.com/46371923/183723405-1792820d-2d02-49d3-bf0f-5769e3246e12.png)
+![Cloud Community Hackday](https://user-images.githubusercontent.com/46371923/183735219-d628d22d-b8a9-40c6-9333-7a0d4d7cc0f1.png)
 
 <p align="center">A 48 Hours Community Hackathon organized by <b><a href="https://gdg.community.dev/gdg-cloud-kolkata/">GDG Cloud Kolkata</a></b>.</p>
 
