@@ -46,7 +46,9 @@ All the Project Submissions have to be done by making an issue in this repositor
 
 `Prizes to be declared`
 
-**All valid submissions for any track will be eligible to get conference passes for all of their team members.** 
+- **Conference passes:** Top 3 winning teams
+- **Workshop passes:** Top 20 qualifying teams
+- **Project showcase on Workshop day:** Top 10 teams
 
 ## Timeline
 
