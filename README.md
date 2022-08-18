@@ -44,8 +44,12 @@ All the Project Submissions have to be done by making an issue in this repositor
 
 ## Perks & Prizes:
 
-`Prizes to be declared`
+**Cash Prizes will be** 🤑
+- 15k to first prize winner
+- 10k to second prize winner
+- 5k to best submission from all-female team
 
+**Perks apart from Prizes**
 - **Conference passes:** Top 3 winning teams
 - **Workshop passes:** Top 20 qualifying teams
 - **Project showcase on Workshop day:** Top 10 teams
