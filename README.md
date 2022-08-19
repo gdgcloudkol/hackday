@@ -58,7 +58,7 @@ All the Project Submissions have to be done by making an issue in this repositor
 
 Teams can register on [Google Form](https://forms.gle/1aW6Uc1swXGasSPe9) and make a submission on GitHub [here](https://github.com/gdgcloudkol/hackday/issues/new?assignees=&labels=submission&template=submission.yml&title=Submission%3A+%3Cteam+name%3E):  
 - Registration Starts: `10th Aug 2022, 12:00 PM IST`
-- Opening Ceremony [Online]: `19th Aug 2022, 7 PM IST`
+- Opening Ceremony [Online]: `19th Aug 2022, 9 PM IST`
 - Hackathon Starts: `19th Aug 2022, 10:00 PM IST`
 - Hackathon Ends: `21st Aug 2022, 10:00 PM IST`
 - TOP 10 Team Announce: `TBD`
