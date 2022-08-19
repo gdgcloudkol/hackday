@@ -15,16 +15,16 @@ body:
       label: Team members
       description: Mention details of all team members in case there is a change
       value: |
-        Member #1
+        Member # 1
         Name:
         Email:
         Twitter handle (hyperlinked):
 
-        Member #2
+        Member # 2
         Name:
         Twitter handle (hyperlinked):
 
-        Member #3
+        Member # 3
         Name:
         Twitter handle (hyperlinked):
     validations:
