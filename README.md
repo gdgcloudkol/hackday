@@ -16,6 +16,7 @@
         - Demo of your project
         - Explain how you fit within your selected track
         - Video must be in English
+        - Duration of the video must be in 2-3 Minutes.
         - Upload your video to YouTube/Vimeo or any other platform where it is publicly visible  
     4. Include the deployed link (if you have any).
 - Start a new **[submission issue](https://github.com/gdgcloudkol/hackday/issues/new?assignees=&labels=submission&template=submission.yml&title=Submission%3A+%3Cteam+name%3E)**.
