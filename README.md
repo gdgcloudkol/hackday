@@ -62,7 +62,7 @@ Teams can register on [Google Form](https://forms.gle/1aW6Uc1swXGasSPe9) and mak
 - Opening Ceremony [Online]: `19th Aug 2022, 9 PM IST`
 - Hackathon Starts: `19th Aug 2022, 10:00 PM IST`
 - Hackathon Ends: `21st Aug 2022, 10:00 PM IST`
-- TOP 10 Team Announce: `TBD`
+- TOP 20 Team Announcement: `26th Aug 2022`
 - Pitch from TOP 10 Teams [Offline]: `27th Aug 2022`
 - Winners Announcement [Offline]: `28th Aug 2022`
 
